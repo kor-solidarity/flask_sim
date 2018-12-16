@@ -1,0 +1,10 @@
+# 깃폴더
+.git
+
+
+.idea
+env
+
+#
+not_proj/
+flask_blog/settings.py
